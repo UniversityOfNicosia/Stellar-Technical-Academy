@@ -12,8 +12,8 @@ From here you can navigate to Stellar Academy main components to learn more
 [chapter-1-public-version](chapter-1-public-version/)
 {% endcontent-ref %}
 
-{% content-ref url="chapter-2-deep-dive-into-stellars-development-stack.md" %}
-[chapter-2-deep-dive-into-stellars-development-stack.md](chapter-2-deep-dive-into-stellars-development-stack.md)
+{% content-ref url="chapter-2-deep-dive-into-stellars-development-stack/" %}
+[chapter-2-deep-dive-into-stellars-development-stack](chapter-2-deep-dive-into-stellars-development-stack/)
 {% endcontent-ref %}
 
 {% content-ref url="glossary.md" %}

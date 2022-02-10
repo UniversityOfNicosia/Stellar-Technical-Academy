@@ -13,4 +13,4 @@
   * Once all badges are completed participants will be awarded the final NFT badge which is the Certificate of Completion&#x20;
 * NFTs will be minted on Stellar following the relevant specification
 
-![Cohort Timeline for Chapter II](<.gitbook/assets/cohort ch2 (1).png>)
+![Cohort Timeline for Chapter II](<../.gitbook/assets/cohort ch2 (1).png>)
