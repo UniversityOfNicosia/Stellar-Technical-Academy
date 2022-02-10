@@ -6,7 +6,17 @@ coverY: 0
 
 # Welcome!
 
-## Welcome aboard!
-
 From here you can navigate to Stellar Academy main components to learn more
+
+{% content-ref url="chapter-1-public-version/" %}
+[chapter-1-public-version](chapter-1-public-version/)
+{% endcontent-ref %}
+
+{% content-ref url="chapter-2-deep-dive-into-stellars-development-stack.md" %}
+[chapter-2-deep-dive-into-stellars-development-stack.md](chapter-2-deep-dive-into-stellars-development-stack.md)
+{% endcontent-ref %}
+
+{% content-ref url="glossary.md" %}
+[glossary.md](glossary.md)
+{% endcontent-ref %}
 

@@ -5,11 +5,12 @@
   * [Learning Goals](chapter-1-public-version/learning-goals.md)
   * [Chapter 1: Profile](chapter-1-public-version/chapter-1-profile.md)
 * [Chapter 2 : Deep Dive into Stellar’s Development Stack](chapter-2-deep-dive-into-stellars-development-stack.md)
+* [Glossary](glossary.md)
 
-## The Company
+## About us
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Vision and Values](about-us/vision-and-values.md)
+* [Meet the Team!](about-us/meet-the-team.md)
 
 ## The Formal Stuff
 
