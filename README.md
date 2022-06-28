@@ -1,5 +1,7 @@
 # Stellar Technical Academy
 
+Stellar Technical Academy consists of two chapters; Chapter I and Chapter II. <a href="https://github.com/UNIC-IFF/Stellar-Technical-Academy/tree/main/Chapter%20I">Chapter I</a> is open to the public and it is an introductory course to the Stellar Blockchain Protocol. Chapter II consists of more technical knowledge and exercises and deep dives into the Stellar Blockchain Protocol.
+
 ## The Chapter I of the Stellar Technical Academy is:
 * A community version, which means that its material is open to the public
 * It has no duration until completion 
