@@ -10,10 +10,9 @@ Stellar Technical Academy consists of two chapters; Chapter I and Chapter II. <a
 
 ### Exercises 
 * The exercises can be found on Github
-* They are containerized with the use of Docker and Docker-compose
 * The results of the exercises will be submitted to the LMS for verification 
+* With every successful completion of the exercises participants will be collecting NFT badges
 
 ### Certificate of Completion - “Stellar Fundamentals”
-* With every successful completion of the exercises participants will be collecting NFT badges
 * Once all the badges are collected, participants will be awarded the final NFT badge which is the Certificate of Completion, “Stellar Fundamentals”
 * NFTs will be minted on Stellar following the relevant specification
