@@ -1,4 +1,5 @@
 Decentralized Exchange (DEX)
 : is a peer-to-peer marketplace. The market participants operate without giving the control over their funds to an intermediary or custodian
+
 Settlement
 : is the process of transacting funds from one wallet to another wallet.​
