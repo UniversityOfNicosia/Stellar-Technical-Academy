@@ -1,18 +1,30 @@
 # Table of contents
 
-* [Welcome!](README.md)
-* [Chapter 1 (Public Version)](chapter-1-public-version/README.md)
-  * [Chapter 1: Profile](chapter-1-public-version/chapter-1-profile.md)
-* [Chapter 2 : Deep Dive into Stellar’s Development Stack](chapter-2-deep-dive-into-stellars-development-stack/README.md)
-  * [Chapter 2: Profile](chapter-2-deep-dive-into-stellars-development-stack/chapter-2-profile.md)
-* [Glossary](glossary.md)
+## 🎓 The DLRC Technical Academy
 
-## About us
+* [About](README.md)
+  * [🚀 Our Mission](the-dlrc-technical-academy/readme/our-mission.md)
+  * [💎 Our Values](the-dlrc-technical-academy/readme/our-values.md)
+  * [👀 Our Team](the-dlrc-technical-academy/readme/our-team.md)
 
-* [Vision and Values](about-us/vision-and-values.md)
-* [Meet the Team!](about-us/meet-the-team.md)
+***
 
-## The Formal Stuff
+* [📕 Education](education/README.md)
+  * [📒 Stellar Technical Courses](education/stellar-technical-courses/README.md)
+    * [About Stellar Technical Course](education/stellar-technical-courses/about-stellar-technical-course/README.md)
+      * [The Team](education/stellar-technical-courses/about-stellar-technical-course/the-team.md)
+    * [Chapter 1 (Public Version)](education/stellar-technical-courses/chapter-1-public-version/README.md)
+      * [Chapter 1: Profile](education/stellar-technical-courses/chapter-1-public-version/chapter-1-profile.md)
+      * [Chapter 1: Resources](education/stellar-technical-courses/chapter-1-public-version/chapter-1-resources.md)
+    * [Chapter 2 : Deep Dive into Stellar’s Development Stack](education/stellar-technical-courses/chapter-2-deep-dive-into-stellars-development-stack/README.md)
+      * [Chapter 2: Profile](education/stellar-technical-courses/chapter-2-deep-dive-into-stellars-development-stack/chapter-2-profile.md)
+    * [Glossary](education/stellar-technical-courses/glossary.md)
+* [📆 Roadmap](roadmap.md)
+* [🤝 Partnerships and Sponsors](partnerships-and-sponsors/README.md)
+  * [Partnerships](partnerships-and-sponsors/partnerships.md)
+  * [Sponsors](partnerships-and-sponsors/sponsors.md)
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+## 📦 Resources & Tools
+
+* [Tools & Resources](resources-and-tools/tools-and-resources.md)
+* [Social Media](resources-and-tools/social-media.md)
