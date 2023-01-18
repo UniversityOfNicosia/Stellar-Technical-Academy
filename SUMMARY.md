@@ -3,9 +3,9 @@
 ## 🎓 The DLRC Technical Academy
 
 * [About](README.md)
-  * [🚀 Our Mission](the-dlrc-technical-academy/readme/our-mission.md)
-  * [💎 Our Values](the-dlrc-technical-academy/readme/our-values.md)
-  * [👀 Our Team](the-dlrc-technical-academy/readme/our-team.md)
+  * [🚀 Our Mission](the-dlrc-technical-academy/about/our-mission.md)
+  * [💎 Our Values](the-dlrc-technical-academy/about/our-values.md)
+  * [👀 Our Team](the-dlrc-technical-academy/about/our-team.md)
 
 ***
 
