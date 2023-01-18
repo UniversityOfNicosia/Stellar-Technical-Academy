@@ -12,8 +12,8 @@ From here you can navigate to Stellar Technical Courses main components.
 [chapter-1-public-version](chapter-1-public-version/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="chapter-2-deep-dive-into-stellars-development-stack/" %}
+[chapter-2-deep-dive-into-stellars-development-stack](chapter-2-deep-dive-into-stellars-development-stack/)
 {% endcontent-ref %}
 
 {% content-ref url="glossary.md" %}
