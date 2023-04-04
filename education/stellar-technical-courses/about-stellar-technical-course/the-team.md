@@ -63,7 +63,7 @@ He holds a B.Sc. and M.Sc. in Digital Systems, both with a specialization in Net
 
 ![](../../../.gitbook/assets/aliki.jpeg)
 
-Research Assistant
+_**Research Assistant**_
 
 Aliki Ntouzgou is a research assistant at the Institute for the Future and a member of the DLRC team.
 
