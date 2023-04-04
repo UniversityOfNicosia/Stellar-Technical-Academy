@@ -4,7 +4,6 @@
 
 * [About](README.md)
   * [🚀 Our Mission](the-dlrc-technical-academy/about/our-mission.md)
-  * [💎 Our Values](the-dlrc-technical-academy/about/our-values.md)
   * [👀 Our Team](the-dlrc-technical-academy/about/our-team.md)
 
 ***
