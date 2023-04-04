@@ -4,7 +4,7 @@ description: The members of DLRC academy behind this course
 
 # The Team
 
-An ispired team worked together to deliver the content of these coures.
+An inspired team worked together to deliver the content of these courses.
 
 <details>
 
