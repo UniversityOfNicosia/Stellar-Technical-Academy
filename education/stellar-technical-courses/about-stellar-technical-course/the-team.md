@@ -61,6 +61,14 @@ He holds a B.Sc. and M.Sc. in Digital Systems, both with a specialization in Net
 
 <summary>Aliki Ntouzgou</summary>
 
+![](../../../.gitbook/assets/aliki.jpeg)
 
+Research Assistant
+
+Aliki Ntouzgou is a research assistant at the Institute for the Future and a member of the DLRC team.
+
+Aliki is a graduate of the Department of Management Science and Technology of Athens University of Economics and Business. She majored in Software and Data Analysis Technologies while her thesis topic was “Types of biases in the datasets”. During her academic studies, she developed an interest in data structures and cryptography, along with data science. Subsequently, she was intrigued by distributed ledger technology. Wanting to navigate in both of these fields, she worked as an intern at Code4Thought, an AI advisory company. More specifically, she conducted a competitive analysis regarding PyThia, the company's AI advisory tool which detects bias metrics in systems, and presented proposals regarding the improvement of the company's AI tool.
+
+After graduation, she kick-started her professional career in the blockchain space, having now a 1½-year experience working for the Institute for the Future (University of Nicosia), as a member of the Distributed Ledger Research Center and the European Blockchain Observatory and Forum.
 
 </details>
