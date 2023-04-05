@@ -1,7 +1,10 @@
 ---
-description: Distributed Ledgers Research Center at IFF
+description: Training opportunities for the next gen of blockchain and Web 3.0 developers.
 ---
 
-# About
+# About DLRC Academy
 
-The Distributed Ledgers Research Centre (DLRC) positions itself as the bridge between pure academic research and the open challenges from the wider Blockchain ecosystem. The Centre aims to advance the field with transformative applications of the technology that emerge directly from the ecosystem.construction
+* DLRC Academy is “blockchain agnostic”, education has no boundaries and as such the academy aims to provide training material to a wide spectrum of blockchain platforms and ecosystems
+* DLRC academy aspires to become a “hot-spot” of knowledge tailored to developers that aim to evolve their hands-on skillset on becoming certified industry-leading blockchain developers
+* DLRC academy aims to provide opportunities to innovate by providing access to an incubator program that aims to connect various blockchain platforms with start-ups that emerge through the ecosystem – designed to help start-ups in their infancy succeed by providing mentoring and training.
+

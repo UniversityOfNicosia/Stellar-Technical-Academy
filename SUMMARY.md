@@ -2,7 +2,7 @@
 
 ## 🎓 The DLRC Technical Academy
 
-* [About](README.md)
+* [About DLRC Academy](README.md)
   * [🚀 Our Mission](the-dlrc-technical-academy/about/our-mission.md)
   * [👀 Our Team](the-dlrc-technical-academy/about/our-team.md)
 
