@@ -21,8 +21,7 @@
       * [Week 5](education/stellar-technical-courses/chapter-1-public-version/chapter-1-resources-4.md)
       * [Week 6](education/stellar-technical-courses/chapter-1-public-version/chapter-1-resources-5.md)
     * [Glossary](education/stellar-technical-courses/glossary.md)
-* [📆 Roadmap](roadmap.md)
-* [🤝 Partnerships and Sponsors](partnerships-and-sponsors/README.md)
+* [🤝 DLRC Partnerships and Sponsors](partnerships-and-sponsors/README.md)
   * [Partnerships](partnerships-and-sponsors/partnerships.md)
   * [Sponsors](partnerships-and-sponsors/sponsors.md)
 

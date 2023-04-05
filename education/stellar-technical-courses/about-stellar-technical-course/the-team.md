@@ -72,3 +72,8 @@ Aliki is a graduate of the Department of Management Science and Technology of At
 After graduation, she kick-started her professional career in the blockchain space, having now a 1½-year experience working for the Institute for the Future (University of Nicosia), as a member of the Distributed Ledger Research Center and the European Blockchain Observatory and Forum.
 
 </details>
+
+#### ✨Credits:&#x20;
+
+* Justin Rice - Vice President of Ecosystem at the Stellar Development Foundation (SDF)
+* Anke Liu - Senior Program Manager at Stellar Development Foundation
