@@ -1,3 +1,2 @@
-# 🤝 Partnerships and Sponsors
+# 🤝 DLRC Partnerships and Sponsors
 
-Under construction

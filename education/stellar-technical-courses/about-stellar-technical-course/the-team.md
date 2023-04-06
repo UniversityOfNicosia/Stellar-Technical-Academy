@@ -14,9 +14,9 @@ An inspired team worked together to deliver the content of these courses.
 
 _**Scientific Lab Leader**_
 
-_Twitter:_ [_klitoschr_](https://twitter.com/klitoschr)__
+_Twitter:_ [_klitoschr_](https://twitter.com/klitoschr)
 
-__
+
 
 **Dr. Klitos Christodoulou** is a faculty member at the Department of Management and MIS – Digital Currency, at the University of Nicosia (UNIC). He is also a research faculty at the Institute For the Future (IFF) at the same University since 2018.
 
@@ -32,7 +32,7 @@ His research interests span both Data Management challenges, with a focus on Mac
 
 <summary>Dr.  Leonidas Katelaris</summary>
 
-![](../../../.gitbook/assets/nounpunk.jpg)__
+![](../../../.gitbook/assets/nounpunk.jpg)
 
 _**IFF Post-doctoral Researcher, Activity Manager CEPOL**_&#x20;
 

@@ -1,3 +1,7 @@
+---
+description: Offering high-quality technical oriented courses
+---
+
 # 🚀 Our Mission
 
 ### We pursue core and applied research on blockchain protocols and networks
@@ -35,7 +39,7 @@ The Centre seeks collaborations with:
 
 **We would love to hear about you joining DLRC, either as an Associated Faculty member, Individual researcher, Partner laboratory, or as a Blockchain project. Please submit the following form to find out how you can get involved.**
 
-#### <mark style="color:red;"></mark>[<mark style="color:red;">Apply now</mark>](https://unic.typeform.com/to/KvJH3o)<mark style="color:red;"></mark>
+#### [<mark style="color:red;">Apply now</mark>](https://unic.typeform.com/to/KvJH3o)
 {% endtab %}
 
 {% tab title="Submit a Research Proposal" %}
@@ -51,7 +55,7 @@ DLRC invites potential PhD Students, Post-docs, Researchers and industry experts
 * Forecasting
 * Machine Learning
 
-#### <mark style="color:red;">****</mark>[<mark style="color:red;">**Submit Proposal**</mark>](https://unic.typeform.com/to/HgEGe6)<mark style="color:red;">****</mark>
+#### [<mark style="color:red;">**Submit Proposal**</mark>](https://unic.typeform.com/to/HgEGe6)
 {% endtab %}
 {% endtabs %}
 

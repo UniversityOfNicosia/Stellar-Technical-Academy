@@ -12,7 +12,7 @@ description: Under construction
 
 _**Blockchain, Distributed Ledger Systems, Machine Learning, Data Management**_
 
-****
+
 
 **Dr. Klitos Christodoulou** is a faculty member at the Department of Management and MIS – Digital Currency, at the University of Nicosia (UNIC). He is also a research faculty at the Institute For the Future (IFF) at the same University since 2018.
 
@@ -26,7 +26,7 @@ His research interests span both Data Management challenges, with a focus on Mac
 {% tab title="Elias Iosif, PhD" %}
 <figure><img src="../../.gitbook/assets/elias.jpg" alt=""><figcaption><p>Scientific Lab Co-Leader</p></figcaption></figure>
 
-****
+
 
 **Dr. Elias Iosif** is a senior researcher at the Blockchain Initiative – Institute For the Future at the University of Nicosia.Dr. Iosif received the PhD degree from the School of Electronic and Computer Engineering, Technical University of Crete (TUC), Greece, in 2013. From 2007-2013, he was a research assistant and a postdoctoral fellow at TUC, where he participated in a number of EU projects. From 2014 to mid-2017, he has been a post-doctoral researcher at the School of Electrical and Computer Engineering, National Technical University of Athens, Greece. His areas of expertise include blockchains, machine learning, human language technologies (natural language processing, spoken dialogue systems) and data mining, where he has authored/co-authored over 50 peer-reviewed scientific publications.
 {% endtab %}
@@ -40,7 +40,7 @@ His research interests span both Data Management challenges, with a focus on Mac
 
 _**Blockchain, Distributed Ledger Systems, Information Systems**_
 
-__
+
 
 Dr. Leonidas Katelaris is a post-doctoral researcher at the Institute for the Future (IFF) at the University of Nicosia. He has played a crucial role in the successful implementation of UNIC's open course on NFTs and the Metaverse, marking the first-ever university course to be delivered on-chain and within the metaverse. Leonidas joined the Institute for the Future (IFF) at the University of Nicosia in 2019 as a researcher, participating in EU projects with a focus on blockchains, DLTs, NFTs, and the Metaverse. His contributions to the Institute for the Future (IFF) at the University of Nicosia span various roles and responsibilities, including:
 
@@ -140,7 +140,17 @@ He also holds an MSc in Data and Web Science from the Aristotle University of Th
 {% endtab %}
 
 {% tab title="Vasileios Moschopoulos" %}
+![](../../.gitbook/assets/vasileios.jpg)
 
+_**IFF Full Stack Developer & Machine Learning Engineer**_
+
+&#x20;
+
+Vasileios (Will) Moschopoulos is a Full Stack Developer and a Machine Learning Engineer at IFF. He holds a MSc in Data & Web Science as a DeepMind scholar from the Aristotle University of Thessaloniki and a BSc in Computer Science from the Alexander Technological Educational Institute of Thessaloniki.
+
+His BSc thesis titled "Parallel and Distributed Implementation of Recommendation System Algorithms" focused on the development of distributed Recommendation System algorithms.His MSc thesis titled "Reward Shaping in Reinforcement Learning for Multi-Agent Physics Games" focused on the development of novel reward shaping techniques applied on the game of Rocket League. The thesis was part of a collaborative effort published on the top AI conference IJCAI. He has a passion for learning, research, Blockchain, Machine Learning, Reinforcement Learning and medical sciences. His ambition is to combine a number of technologies and domains, unifying them in a common framework.
+
+&#x20;
 {% endtab %}
 {% endtabs %}
 
@@ -152,4 +162,4 @@ The Lab welcomes like-minded individuals and enthusiasts with technical expertis
 
 **Opportunities for individual researchers to join the Lab and create synergies.**
 
-<mark style="color:red;">****</mark>[<mark style="color:red;">**Get involved**</mark>](https://www.unic.ac.cy/iff/dlrc/dlrc-research-engagement/)<mark style="color:red;">****</mark>
+[<mark style="color:red;">**Get involved**</mark>](https://www.unic.ac.cy/iff/dlrc/dlrc-research-engagement/)
