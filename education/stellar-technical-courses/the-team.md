@@ -75,5 +75,5 @@ After graduation, she kick-started her professional career in the blockchain spa
 
 #### ✨Credits:&#x20;
 
-* Justin Rice - Vice President of Ecosystem at the Stellar Development Foundation (SDF)
-* Anke Liu - Senior Program Manager at Stellar Development Foundation
+* **Justin Rice** - Vice President of Ecosystem at the Stellar Development Foundation (SDF)
+* **Anke Liu** - Senior Program Manager at Stellar Development Foundation
