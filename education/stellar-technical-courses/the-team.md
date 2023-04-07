@@ -38,7 +38,7 @@ _**IFF Post-doctoral Researcher, Activity Manager CEPOL**_&#x20;
 
 _Twitter:_ [_katelarisl_](https://twitter.com/katelarisL)
 
-Dr Leonidas Katelaris is a post-doctoral researcher at Institute For the Future (IFF) at University of Nicosia. He joined Institute For the Future (IFF) at University of Nicosia in 2019 as a Researcher participating in EU projects with focus in the areas of Blockchains, DLTs, NFTs and the Metaverse. His contribution at Institute For the Future (IFF) at University of Nicosia is disturbed between different roles and responsibilities including among others:
+**Dr Leonidas Katelaris** is a post-doctoral researcher at Institute For the Future (IFF) at University of Nicosia. He joined Institute For the Future (IFF) at University of Nicosia in 2019 as a Researcher participating in EU projects with focus in the areas of Blockchains, DLTs, NFTs and the Metaverse. His contribution at Institute For the Future (IFF) at University of Nicosia is disturbed between different roles and responsibilities including among others:
 
 * The support at the world leading Blockchain and Digital Currency MSc program at University of Nicosia as Teaching Assistance&#x20;
 * Member of the team behind the Open Metaverse Initiative (OMI) of University of Nicosia and the  world’s first university course to be delivered exclusively on-chain and in the metaverse (aka NFTs and the Metaverse MOOC)
