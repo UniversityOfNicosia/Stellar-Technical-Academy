@@ -8,7 +8,7 @@ An inspired team worked together to deliver the content of these courses.
 
 <details>
 
-<summary>Dr.  Klitos Christodoulou</summary>
+<summary>Klitos Christodoulou, PhD</summary>
 
 ![](../../.gitbook/assets/klitos.jpg)
 
@@ -30,7 +30,7 @@ His research interests span both Data Management challenges, with a focus on Mac
 
 <details>
 
-<summary>Dr.  Leonidas Katelaris</summary>
+<summary>Leonidas Katelaris, PhD</summary>
 
 ![](../../.gitbook/assets/nounpunk.jpg)
 
