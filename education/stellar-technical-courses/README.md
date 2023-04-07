@@ -1,5 +1,4 @@
 ---
-description: This is home page  of Stellar Technical Courses
 cover: ../../.gitbook/assets/logo.png
 coverY: 0
 ---

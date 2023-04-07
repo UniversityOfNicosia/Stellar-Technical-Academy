@@ -1,17 +1,17 @@
 # Table of contents
 
-## 🎓 The DLRC Technical Academy
+## 🎓 The DLRC Technical Academy and Incubator Program
 
 * [About DLRC Academy](README.md)
-  * [🚀 Our Mission](the-dlrc-technical-academy/about/our-mission.md)
-  * [👀 Our Team](the-dlrc-technical-academy/about/our-team.md)
+  * [🚀 Our Mission](the-dlrc-technical-academy-and-incubator-program/readme/our-mission.md)
+  * [⚛ The DLRC Lab](the-dlrc-technical-academy-and-incubator-program/readme/the-dlrc-lab.md)
 
 ***
 
 * [📕 Education](education/README.md)
   * [📒 Stellar Technical Courses](education/stellar-technical-courses/README.md)
-    * [About Stellar Technical Course](education/stellar-technical-courses/about-stellar-technical-course/README.md)
-      * [The Team](education/stellar-technical-courses/about-stellar-technical-course/the-team.md)
+    * [About Stellar Technical Course](education/stellar-technical-courses/about-stellar-technical-course.md)
+    * [The Team](education/stellar-technical-courses/the-team.md)
     * [Chapter I - Public Version](education/stellar-technical-courses/chapter-1-public-version/README.md)
       * [Profile](education/stellar-technical-courses/chapter-1-public-version/chapter-1-profile.md)
       * [Week 1](education/stellar-technical-courses/chapter-1-public-version/chapter-1-resources.md)
