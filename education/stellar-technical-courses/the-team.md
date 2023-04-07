@@ -1,5 +1,5 @@
 ---
-description: The members of DLRC academy behind this course
+description: The members of DLRC Academy behind this course
 ---
 
 # The Team
@@ -10,7 +10,7 @@ An inspired team worked together to deliver the content of these courses.
 
 <summary>Dr.  Klitos Christodoulou</summary>
 
-![](../../../.gitbook/assets/klitos.jpg)
+![](../../.gitbook/assets/klitos.jpg)
 
 _**Scientific Lab Leader**_
 
@@ -32,7 +32,7 @@ His research interests span both Data Management challenges, with a focus on Mac
 
 <summary>Dr.  Leonidas Katelaris</summary>
 
-![](../../../.gitbook/assets/nounpunk.jpg)
+![](../../.gitbook/assets/nounpunk.jpg)
 
 _**IFF Post-doctoral Researcher, Activity Manager CEPOL**_&#x20;
 
@@ -61,7 +61,7 @@ He holds a B.Sc. and M.Sc. in Digital Systems, both with a specialization in Net
 
 <summary>Aliki Ntouzgou</summary>
 
-![](../../../.gitbook/assets/aliki.jpeg)
+![](../../.gitbook/assets/aliki.jpeg)
 
 _**Research Assistant**_
 

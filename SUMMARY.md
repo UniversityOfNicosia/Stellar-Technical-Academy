@@ -10,7 +10,6 @@
 
 * [📕 Education](education/README.md)
   * [📒 Stellar Technical Courses](education/stellar-technical-courses/README.md)
-    * [About Stellar Technical Course](education/stellar-technical-courses/about-stellar-technical-course.md)
     * [The Team](education/stellar-technical-courses/the-team.md)
     * [Chapter I - Public Version](education/stellar-technical-courses/chapter-1-public-version/README.md)
       * [Profile](education/stellar-technical-courses/chapter-1-public-version/chapter-1-profile.md)
@@ -21,9 +20,7 @@
       * [Week 5](education/stellar-technical-courses/chapter-1-public-version/chapter-1-resources-4.md)
       * [Week 6](education/stellar-technical-courses/chapter-1-public-version/chapter-1-resources-5.md)
     * [Glossary](education/stellar-technical-courses/glossary.md)
-* [🤝 DLRC Partnerships and Sponsors](partnerships-and-sponsors/README.md)
-  * [Partnerships](partnerships-and-sponsors/partnerships.md)
-  * [Sponsors](partnerships-and-sponsors/sponsors.md)
+* [🤝 DLRC Partnerships and Sponsors](partnerships-and-sponsors.md)
 
 ## 📦 Resources & Tools
 
