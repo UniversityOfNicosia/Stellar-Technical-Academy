@@ -1,12 +1,13 @@
 ---
 description: >-
-  We pursue core and applied research on blockchain protocols and
-  networksh-quality technical oriented courses
+  The Distributed Ledgers Research Centre (DLRC) positions itself as the bridge
+  between pure academic research and the open challenges from the wider
+  Blockchain ecosystem.
 ---
 
 # ⚛ The DLRC Lab
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:red;">FOCUS ON CHALLENGES FROM THE ECOSYSTEM</mark></td><td>We focus on the transformative future of Blockchain Technologies, NFTs, and the Metaverse by supporting protocols and projects from the ecosystem to collaborate, conduct research, and solve real-world challenges across these domains.</td><td></td></tr><tr><td><mark style="color:red;">PROMOTE INDEPENDENT RESEARCH</mark></td><td>We provide engagement opportunities with the uses of the technology through an open, collaborative environment of Blockchain Researchers, NFT specialists, Metaverse experts, and other technology practitioners from the wider Blockchain ecosystem.</td><td></td></tr><tr><td><mark style="color:red;">FOSTERING A COMMUNITY OF APPLIED RESEARCH</mark></td><td>We are publishing independent academic research on the pragmatic challenges of Blockchains, Distributed Ledgers, NFTs, and the Metaverse, while at the same time accelerating societal change for the benefit of society.</td><td></td></tr><tr><td><mark style="color:red;">ADVANCING NFTs AND METAVERSE(s) ADOPTION</mark></td><td>We actively explore the potential of NFTs and the Metaverse in various sectors, such as art, gaming, virtual real estate, and more, to promote their widespread adoption and integration into everyday life, driving forward a decentralized digital future.</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:red;">FOCUS ON CHALLENGES FROM THE ECOSYSTEM</mark></td><td>We focus on the transformative future of Blockchain Technologies, NFTs, and the Metaverse by supporting protocols and projects from the ecosystem to collaborate, conduct research, and solve real-world challenges across these domains.</td><td></td></tr><tr><td><mark style="color:red;">PROMOTE INDEPENDENT RESEARCH</mark></td><td>We provide engagement opportunities with the uses of the technology through an open, collaborative environment of Blockchain researchers, NFT specialists, Metaverse experts, and other technology practitioners from the wider Blockchain ecosystem.</td><td></td></tr><tr><td><mark style="color:red;">FOSTERING A COMMUNITY OF APPLIED RESEARCH</mark></td><td>We publish independent academic research on the pragmatic challenges of Blockchains, Distributed Ledgers, NFTs, and the Metaverse, while at the same time contributing to open standards for the benefit of the Web3 community.</td><td></td></tr><tr><td><mark style="color:red;">ADVANCING NFTs AND METAVERSE ADOPTION</mark></td><td>We explore the potential of NFTs and the Metaverse in various sectors, such as education, to promote their widespread adoption and integration into everyday life, driving forward a decentralized digital future.</td><td></td></tr></tbody></table>
 
 ### We perform applied research within the boundaries of your Distributed Ledger protocol
 
