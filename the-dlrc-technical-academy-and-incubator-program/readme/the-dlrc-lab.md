@@ -9,23 +9,21 @@ description: >-
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:red;">FOCUS ON CHALLENGES FROM THE ECOSYSTEM</mark></td><td>We focus on the transformative future of Blockchain Technologies, NFTs, and the Metaverse by supporting protocols and projects from the ecosystem to collaborate, conduct research, and solve real-world challenges across these domains.</td><td></td></tr><tr><td><mark style="color:red;">PROMOTE INDEPENDENT RESEARCH</mark></td><td>We provide engagement opportunities with the uses of the technology through an open, collaborative environment of Blockchain researchers, NFT specialists, Metaverse experts, and other technology practitioners from the wider Blockchain ecosystem.</td><td></td></tr><tr><td><mark style="color:red;">FOSTERING A COMMUNITY OF APPLIED RESEARCH</mark></td><td>We publish independent academic research on the pragmatic challenges of Blockchains, Distributed Ledgers, NFTs, and the Metaverse, while at the same time contributing to open standards for the benefit of the Web3 community.</td><td></td></tr><tr><td><mark style="color:red;">ADVANCING NFTs AND METAVERSE ADOPTION</mark></td><td>We explore the potential of NFTs and the Metaverse in various sectors, such as education, to promote their widespread adoption and integration into everyday life, driving forward a decentralized digital future.</td><td></td></tr></tbody></table>
 
-### We perform applied research within the boundaries of your Distributed Ledger protocol
+### _**Our philosophy is to turn academic research into useful applied solutions to the real challenges that many Blockchain protocols are facing.**_
 
 {% tabs %}
 {% tab title="Research & Engagement" %}
 We focus on applied research. The aim of DLRC is to jointly transform academic research into applications that can benefit the wider Blockchain ecosystem, including NFTs and the Metaverse.
 
-* Blockchain Protocols Decentralized Finance (DeFi)&#x20;
-* Non-Fungible Tokens (NFTs)
-* Blockchain-based Metaverse&#x20;
+* Non-Fungible Tokens (NFTs) and the Open Metaverse
+* Blockchain Protocols&#x20;
+* Decentralized Finance (DeFi)&#x20;
 * Decentralized Autonomous Organizations (DAOs)&#x20;
 * Technology and Infrastructure Challenges in Blockchains&#x20;
 * Convergence of Blockchain with AI, IoT, and VR&#x20;
-* Data Science and Analytics in Blockchains&#x20;
-* Forecasting&#x20;
-* Machine Learning and AI in NFTs and the Metaverse
+* Data Science and Analytics in Blockchains
 
-#### <mark style="color:red;">Publications</mark>
+#### <mark style="color:red;">Action: Publications</mark>
 {% endtab %}
 
 {% tab title="Become a Collaborator" %}
