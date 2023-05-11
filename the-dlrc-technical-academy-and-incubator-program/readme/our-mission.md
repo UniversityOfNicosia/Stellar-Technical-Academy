@@ -18,7 +18,7 @@ description: >-
 * Create a developers base for your projects's needs
 * Raise awareness of your projects's ecosystem
 
-#### <mark style="color:red;">Action: Become a sponsor</mark>
+#### [<mark style="color:red;">Action: Become a sponsor</mark>](https://www.unic.ac.cy/iff/dlrc/dlrc-become-a-sponsor/)
 {% endtab %}
 
 {% tab title="Propose a curriculum" %}
