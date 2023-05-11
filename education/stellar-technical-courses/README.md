@@ -11,10 +11,9 @@ University of Nicosia (UNIC), aims to provide educational support in bridging th
 The course aims to:
 
 * educate developers on Stellar's ecosystem
-* expose Stellar’s ecosystem of development tools
+* expose participants to Stellar's development tools and SDKs
 * explore Stellar’s multi-currency network and logic
 * acknowledge the mission and actions of the Stellar Development Foundation (SDF)
-* build on Stellar using the available SDKs
 
 **Course Components**
 

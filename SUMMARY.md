@@ -12,7 +12,7 @@
   * [📒 Stellar Technical Courses](education/stellar-technical-courses/README.md)
     * [The Team](education/stellar-technical-courses/the-team.md)
     * [Chapter I (Public Series)](education/stellar-technical-courses/chapter-1-public-version/README.md)
-      * [Profile](education/stellar-technical-courses/chapter-1-public-version/chapter-1-profile.md)
+      * [Learning Outcomes](education/stellar-technical-courses/chapter-1-public-version/chapter-1-profile.md)
       * [Week 1](education/stellar-technical-courses/chapter-1-public-version/chapter-1-resources.md)
       * [Week 2](education/stellar-technical-courses/chapter-1-public-version/chapter-1-resources-1.md)
       * [Week 3](education/stellar-technical-courses/chapter-1-public-version/chapter-1-resources-2.md)
