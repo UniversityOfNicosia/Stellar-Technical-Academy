@@ -8,12 +8,16 @@ Content of this course is classified in a weekly manner.
 
 {% tabs %}
 {% tab title="Objectives" %}
+**Session Objectives:**
+
 * Learn about the Stellar Consensus Protocol (SCP), the Stellar Decentralized Exchange (SDEX) and how they contribute to the purpose of Stellar.&#x20;
 * Learn about Blockchain generations. You will understand why and how blockchain started, how it has evolved, where it is heading and what blockchain generation Stellar belongs to.
 * Discover about the famous blockchain trilemma and how Stellar addresses it.
 {% endtab %}
 
 {% tab title="Laboratory" %}
+**Laboratory Objectives:**
+
 * This Laboratory exercise aims to familiarise you with the Stellar non-custodial wallet, xBull.&#x20;
 * More specifically, you will:&#x20;
   * Create your own non-custodial wallet&#x20;
@@ -25,6 +29,20 @@ Content of this course is classified in a weekly manner.
 {% endtab %}
 
 {% tab title="Resources" %}
+### Theoretical Material
+
+* Slide Deck \[[here](https://github.com/UniversityOfNicosia/Stellar-Technical-Academy/blob/live/Chapter%20I/Week%202/Week2\_Theory.pdf)]
+
+### Laboratory
+
+* Slide Deck \[[here](https://github.com/UniversityOfNicosia/Stellar-Technical-Academy/blob/live/Chapter%20I/Week%202/Week2\_Lab.pdf)]
+
+### Glossary&#x20;
+
+* Slide Deck \[[here](https://github.com/UniversityOfNicosia/Stellar-Technical-Academy/blob/live/Chapter%20I/Week%202/Week2\_Glossary.pdf)]
+
+### GitHub Repository
+
 {% embed url="https://github.com/UniversityOfNicosia/Stellar-Technical-Academy/tree/live/Chapter%20I/Week%202" %}
 Week 2 Study Material
 {% endembed %}
