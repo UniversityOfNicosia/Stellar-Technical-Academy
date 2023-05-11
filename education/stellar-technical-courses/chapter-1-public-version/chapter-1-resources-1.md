@@ -1,10 +1,8 @@
 ---
-description: From this page you can navigate to the content of Chapter 1
+description: Chapter 2 - Content
 ---
 
 # Week 2
-
-Content of this course is classified in a weekly manner.
 
 {% tabs %}
 {% tab title="Objectives" %}
