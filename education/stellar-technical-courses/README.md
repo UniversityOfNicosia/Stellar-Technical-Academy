@@ -1,5 +1,5 @@
 ---
-description: The vision behind this series of courses
+description: Preamble
 cover: ../../.gitbook/assets/logo.png
 coverY: 0
 ---
@@ -10,10 +10,10 @@ University of Nicosia (UNIC), aims to provide educational support in bridging th
 
 As part of the agreement, both parties will collaborate on a technical Stellar certificate course, operated under the [Distributed Ledgers Research Centre (DLRC) at UNIC’s Institute For the Future (IFF)](https://www.unic.ac.cy/school-of-business/department-of-digital-innovation/dlrc/). The technical course is aligned with IFF’s philosophy that education drives mass adoption of an emerging technology.
 
-The Stellar certificate course aims to:
+The course aims to:
 
 * provide technical education for developers
-* unveilexpose Stellar’s ecosystem of development tools
+* expose Stellar’s ecosystem of development tools
 * explore Stellar’s multi-currency network and logic
 * acknowledge the mission and actions of the Stellar Development Foundation (SDF)
 * build the killer applications on the Stellar blockchain
