@@ -1,5 +1,5 @@
 ---
-description: Overview
+description: From this page you can navigate to the content of Chapter 1
 ---
 
 # Week 4
@@ -15,7 +15,7 @@ description: Overview
 {% endtab %}
 
 {% tab title="Laboratory" %}
-**Laboratory Objectives:**
+**Laboratory  Objectives:**
 
 * The purpose of the week’s exercise’s is to acquaint you with Interstellar exchange.
 * More specifically, you will create a random Interstellar wallet.&#x20;
@@ -24,6 +24,20 @@ description: Overview
 {% endtab %}
 
 {% tab title="Resources" %}
+### Theoretical Material
+
+* Slide Deck \[[here](https://github.com/UniversityOfNicosia/Stellar-Technical-Academy/blob/live/Chapter%20I/Week%204/Week4\_Theory.pdf)]
+
+### Laboratory
+
+* Slide Deck \[[here](https://github.com/UniversityOfNicosia/Stellar-Technical-Academy/blob/live/Chapter%20I/Week%204/Week4\_Lab.pdf)]
+
+### Glossary&#x20;
+
+* Slide Deck \[[here](https://github.com/UniversityOfNicosia/Stellar-Technical-Academy/blob/live/Chapter%20I/Week%204/Week4\_Glossary.pdf)]
+
+### GitHub Repository
+
 {% embed url="https://github.com/UniversityOfNicosia/Stellar-Technical-Academy/tree/live/Chapter%20I/Week%204" %}
 Week 4 Study Material
 {% endembed %}
