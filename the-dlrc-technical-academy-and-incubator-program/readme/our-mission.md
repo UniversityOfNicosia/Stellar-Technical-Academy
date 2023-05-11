@@ -1,12 +1,12 @@
 ---
 description: >-
-  Unlocking the blockchain revolution: Empowering developers and fueling
+  Unlocking the blockchain revolution: Empowering developers and fuelling
   innovation through education and incubation
 ---
 
 # 🚀 Our Mission
 
-#### We are on a mission to train developers and expose them to the transformative potential of blockchain and DLTs by providing access to training material and opportunities to innovate through an incubator program
+#### We are on a mission to train developers and expose them to the transformative potential of blockchain and DLTs by providing access to training material and opportunities to innovate through an incubator program.
 
 {% tabs %}
 {% tab title="Become a sponsor" %}
@@ -18,7 +18,7 @@ description: >-
 * Create a developers base for your projects's needs
 * Raise awareness of your projects's ecosystem
 
-#### <mark style="color:red;">Become a sponsor</mark>
+#### <mark style="color:red;">Action: Become a sponsor</mark>
 {% endtab %}
 
 {% tab title="Propose a curriculum" %}
@@ -29,7 +29,7 @@ description: >-
 * Deliver high-quality DevOps training to your community
 * Educate developers using your project's tools and Blockchain/DLT platform
 
-#### [<mark style="color:red;">Propose a curriculum</mark>](https://unic.typeform.com/to/Ubodkm)
+#### <mark style="color:red;">Action: Submit a</mark>[ <mark style="color:red;">curriculum</mark>](https://unic.typeform.com/to/Ubodkm) <mark style="color:red;">proposal</mark>
 {% endtab %}
 {% endtabs %}
 
