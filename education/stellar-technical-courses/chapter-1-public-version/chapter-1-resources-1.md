@@ -1,5 +1,5 @@
 ---
-description: Chapter 2 - Content
+description: Overview
 ---
 
 # Week 2
