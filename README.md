@@ -1,18 +1,16 @@
 # Stellar Technical Academy
 
-Stellar Technical Academy consists of two chapters; Chapter I and Chapter II. <a href="https://github.com/UNIC-IFF/Stellar-Technical-Academy/tree/main/Chapter%20I">Chapter I</a> is open to the public and it is an introductory course to the Stellar Blockchain Protocol. Chapter II consists of more technical knowledge and exercises and deep dives into the Stellar Blockchain Protocol.
+To bridge the gap between technical education and hands-on experience through the recently launched Stellar Next-Gen, an initiative established with the objective to foster the growth and development of blockchain and FinTech education amongst tomorrow’s business leaders and developers.
 
-## Chapter I 
-* It is community version, which means that its material is open to the public
-* It is an asynchronous learning course
-* It has no duration until completion 
-* It mainly consists of theory with limited introductory hands-on exercises
+## Chapter I - Public Series
 
-### Exercises 
-* The exercises can be found on Github
-* The results of the exercises will be submitted to the LMS for verification 
-* With every successful completion of the exercises participants will be collecting NFT badges
+### Description
+ An overview of what Stellar is, how it works and what purpose(s) it serves are covered during this course. Throughout this course an attempt to introduce the Stellar primitives, including the mission and actions of the Stellar Development Foundation (SDF) and the built-in token lumen is made. A set of practical exercises are complementing the course enabling participants to get familiar with the theoretical concepts in a more practical way.
+ 
+### Learning Outcomes
+After a successful completion of Chapter I, participants are expected to:
+* Define and understand the fundamentals of the Stellar Ecosystem 
+* Understand Stellar’s consensus algorithm 
+* Acknowledge the mission and actions of the Stellar Development Foundation (SDF) 
+* Understand the concept of custom tokens Setup and execute transactions on Stellar
 
-### Certificate of Completion - “Stellar Fundamentals”
-* Once all the badges are collected, participants will be awarded the final NFT badge which is the Certificate of Completion, “Stellar Fundamentals”
-* NFTs will be minted on Stellar following the relevant specification
