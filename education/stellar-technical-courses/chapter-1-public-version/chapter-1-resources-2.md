@@ -36,6 +36,8 @@ description: Overview
 
 * Slide Deck \[[here](https://github.com/UniversityOfNicosia/Stellar-Technical-Academy/blob/live/Chapter%20I/Week%203/Week3\_Glossary.pdf)]
 
+### GitHub Repository
+
 {% embed url="https://github.com/UniversityOfNicosia/Stellar-Technical-Academy/tree/live/Chapter%20I/Week%203" %}
 Week 3 Study Material
 {% endembed %}
