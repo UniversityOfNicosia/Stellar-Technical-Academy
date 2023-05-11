@@ -1,13 +1,13 @@
 ---
-description: From this page you can navigate to the content of Chapter 1
+description: Overview
 ---
 
 # Week 4
 
-Content of this course is classified in a weekly manner.
-
 {% tabs %}
 {% tab title="Objectives" %}
+**Session Objectives:**
+
 * Learn about Stellar’s governance model and its dynamics
 * Discover how the Stellar Consensus Protocol (SCP) contributes to the network’s governance&#x20;
 * Deep dive into Stellar’s Decentralised Exchange (DEX)
@@ -15,6 +15,8 @@ Content of this course is classified in a weekly manner.
 {% endtab %}
 
 {% tab title="Laboratory" %}
+**Laboratory Objectives:**
+
 * The purpose of the week’s exercise’s is to acquaint you with Interstellar exchange.
 * More specifically, you will create a random Interstellar wallet.&#x20;
 * Then you will add your Albedo wallet and see how a single exchange can support more than one wallet.
