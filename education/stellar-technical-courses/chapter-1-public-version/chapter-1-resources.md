@@ -8,7 +8,7 @@ Content of this course is classified in a weekly manner.
 
 {% tabs %}
 {% tab title="Objectives" %}
-**Session objectives:**
+**Session Objectives:**
 
 * Learn about the fundamentals of Stellar
 * Get acquainted with the Stellar Stack and its components
@@ -17,6 +17,8 @@ Content of this course is classified in a weekly manner.
 {% endtab %}
 
 {% tab title="Laboratory" %}
+**Laboratory Objectives:**
+
 * The first exercise aims to familiarize students with the Stellar Laboratory, by creating your very own Stellar account and issuing a transaction.&#x20;
 * Remember to safely store your keypair (public key and secret key). You will need both the private and the public key throughout the exercises.&#x20;
 * In this exercise, you will:&#x20;
