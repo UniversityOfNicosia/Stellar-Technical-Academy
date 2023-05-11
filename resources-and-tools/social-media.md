@@ -1,5 +1,5 @@
 ---
-description: Find us on social media platforms
+description: Find us on social media
 ---
 
 # Social Media

@@ -20,7 +20,6 @@
       * [Week 5](education/stellar-technical-courses/chapter-1-public-version/chapter-1-resources-4.md)
       * [Week 6](education/stellar-technical-courses/chapter-1-public-version/chapter-1-resources-5.md)
     * [Glossary](education/stellar-technical-courses/glossary.md)
-* [🤝 DLRC Partnerships and Sponsors](partnerships-and-sponsors.md)
 
 ## 📦 Resources & Tools
 
