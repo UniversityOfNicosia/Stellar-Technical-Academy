@@ -1,5 +1,5 @@
 ---
-description: From this page you can navigate to the content of Chapter 1
+description: Overview
 ---
 
 # Week 4
