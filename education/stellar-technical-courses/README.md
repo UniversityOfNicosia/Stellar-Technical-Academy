@@ -16,9 +16,9 @@ The course aims to:
 * expose Stellar’s ecosystem of development tools
 * explore Stellar’s multi-currency network and logic
 * acknowledge the mission and actions of the Stellar Development Foundation (SDF)
-* build the killer applications on the Stellar blockchain
+* build on Stellar using the available SDKs
 
-**Course components**
+**Course Components**
 
 {% content-ref url="chapter-1-public-version/" %}
 [chapter-1-public-version](chapter-1-public-version/)
