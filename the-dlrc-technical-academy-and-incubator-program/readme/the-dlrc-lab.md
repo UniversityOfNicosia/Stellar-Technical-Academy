@@ -12,7 +12,7 @@ description: >-
 ### _**Our philosophy is to turn academic research into useful applied solutions to the real challenges that many Blockchain protocols are facing.**_
 
 {% tabs %}
-{% tab title="Research & Engagement" %}
+{% tab title="Research and Engagement" %}
 We focus on applied research. The aim of DLRC is to jointly transform academic research into applications that can benefit the wider Blockchain ecosystem, including NFTs and the Metaverse.
 
 * Non-Fungible Tokens (NFTs) and the Open Metaverse
@@ -23,11 +23,11 @@ We focus on applied research. The aim of DLRC is to jointly transform academic r
 * Convergence of Blockchain with AI, IoT, and VR&#x20;
 * Data Science and Analytics in Blockchains
 
-#### <mark style="color:red;">Action: Publications</mark>
+#### [<mark style="color:red;">Action: Publications</mark>](https://www.unic.ac.cy/iff/publications/)
 {% endtab %}
 
 {% tab title="Become a Collaborator" %}
-The Centre seeks collaborations with:
+The centre seeks collaborations with:
 
 * Like-minded individuals, and blockchain enthusiasts with technical expertise (Blockchain Developers, Blockchain Researchers, Researchers in Data Analytics etc.) from the wider blockchain eco-system
 * Individual researchers from other Institutions to join the our Tech Lab and create synergies
@@ -38,21 +38,19 @@ The Centre seeks collaborations with:
 
 **We would love to hear about you joining DLRC, either as an Associated Faculty member, Individual researcher, Partner laboratory, or as a Blockchain project. Please submit the following form to find out how you can get involved.**
 
-#### [<mark style="color:red;">Apply now</mark>](https://unic.typeform.com/to/KvJH3o)
+#### <mark style="color:red;">Action:</mark> [<mark style="color:red;">Apply now</mark>](https://unic.typeform.com/to/KvJH3o)
 {% endtab %}
 
 {% tab title="Submit a Research Proposal" %}
-DLRC invites potential PhD Students, Post-docs, Researchers and industry experts to submit original Research proposals in the following major areas (find below an indicative list of topics, other related topics will also be considered):
+DLRC invites PhD Students, Post-docs, Researchers and industry experts to submit original Research proposals in the following major areas (find below an indicative list of topics, other related topics will also be considered):
 
 * Blockchain Protocols
 * Decentralized Finance (DeFi)
-* NFTs and Blockchain-based Metaverse
+* NFTs and Blockchain-based Metaverses
 * Decentralized Autonomous Organizations (DAOs)
 * Technology and Infrastructure challenges in Blockchains
 * Convergence of Blockchain with AI, IoT and VR
 * Data Science and Analytics in Blockchains
-* Forecasting
-* Machine Learning
 
 #### [<mark style="color:red;">**Submit Proposal**</mark>](https://unic.typeform.com/to/HgEGe6)
 {% endtab %}
