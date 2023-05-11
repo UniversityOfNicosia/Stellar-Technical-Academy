@@ -18,7 +18,7 @@ The Stellar certificate course aims to:
 * acknowledge the mission and actions of the Stellar Development Foundation (SDF)
 * build the killer applications on the Stellar blockchain
 
-From here you can navigate to the components of this course
+**Course components**
 
 {% content-ref url="chapter-1-public-version/" %}
 [chapter-1-public-version](chapter-1-public-version/)
