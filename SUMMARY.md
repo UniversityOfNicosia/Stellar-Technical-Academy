@@ -2,7 +2,7 @@
 
 ## 🎓 The DLRC Technical Academy and Incubator Program
 
-* [About DLRC Academy](README.md)
+* [Blockchain Tech Academy](README.md)
   * [🚀 Our Mission](the-dlrc-technical-academy-and-incubator-program/readme/our-mission.md)
   * [⚛ The DLRC Lab](the-dlrc-technical-academy-and-incubator-program/readme/the-dlrc-lab.md)
 
