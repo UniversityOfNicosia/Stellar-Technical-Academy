@@ -12,4 +12,4 @@ description: >-
 
 #### Blockchain Tech Academy and Incubator Program is an initiative of the DLRC Lab
 
-[<mark style="color:red;">**Learn more about the DLRC Lab**</mark>](blockchain-and-tech-academy-and-incubator-program/readme/the-dlrc-lab.md)
+[<mark style="color:red;">**Learn more about the DLRC Lab**</mark>](blockchain-tech-academy-and-incubator-program/readme/the-dlrc-lab.md)

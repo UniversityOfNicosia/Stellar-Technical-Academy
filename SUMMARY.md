@@ -1,10 +1,10 @@
 # Table of contents
 
-## 🎓 Blockchain and Tech Academy and Incubator Program
+## 🎓 Blockchain Tech Academy and Incubator Program
 
 * [Blockchain Tech Academy](README.md)
-  * [🚀 Our Mission](blockchain-and-tech-academy-and-incubator-program/readme/our-mission.md)
-  * [⚛ The DLRC Lab](blockchain-and-tech-academy-and-incubator-program/readme/the-dlrc-lab.md)
+  * [🚀 Our Mission](blockchain-tech-academy-and-incubator-program/readme/our-mission.md)
+  * [⚛ The DLRC Lab](blockchain-tech-academy-and-incubator-program/readme/the-dlrc-lab.md)
 
 ***
 
