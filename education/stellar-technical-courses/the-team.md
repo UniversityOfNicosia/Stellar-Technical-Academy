@@ -1,5 +1,5 @@
 ---
-description: The members of DLRC Academy behind this course
+description: The members of Blockchain Tech Academy behind this course
 ---
 
 # The Team
