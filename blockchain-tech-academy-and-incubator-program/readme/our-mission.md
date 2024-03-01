@@ -18,7 +18,7 @@ description: >-
 * Create a developers base for your projects's needs
 * Raise awareness of your projects's ecosystem
 
-#### [<mark style="color:red;">Action: Become a sponsor</mark>](https://www.unic.ac.cy/iff/dlrc/dlrc-become-a-sponsor/)
+#### [<mark style="color:red;">Action: Become a sponsor</mark>](https://unic.typeform.com/to/Ubodkm?typeform-source=www.unic.ac.cy)
 {% endtab %}
 
 {% tab title="Propose a curriculum" %}
@@ -29,7 +29,7 @@ description: >-
 * Deliver high-quality DevOps training to your community
 * Educate developers using your project's tools and Blockchain/DLT platform
 
-#### <mark style="color:red;">Action: Submit a</mark>[ <mark style="color:red;">curriculum</mark>](https://unic.typeform.com/to/Ubodkm) <mark style="color:red;">proposal</mark>
+#### <mark style="color:red;">Action: Submit a curriculum proposal</mark>
 {% endtab %}
 {% endtabs %}
 
