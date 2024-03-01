@@ -4,7 +4,7 @@
 
 * [Blockchain Tech Academy](README.md)
   * [🚀 Our Mission](blockchain-tech-academy-and-incubator-program/readme/our-mission.md)
-  * [⚛ The DLRC Lab](blockchain-tech-academy-and-incubator-program/readme/the-dlrc-lab.md)
+  * [⚛️ The DLRC Lab](blockchain-tech-academy-and-incubator-program/readme/the-dlrc-lab.md)
 
 ***
 
