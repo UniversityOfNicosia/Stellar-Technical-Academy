@@ -22,5 +22,4 @@
 
 ## 📦 Resources & Tools
 
-* [Tools & Resources](resources-and-tools/tools-and-resources.md)
 * [Social Media](resources-and-tools/social-media.md)
