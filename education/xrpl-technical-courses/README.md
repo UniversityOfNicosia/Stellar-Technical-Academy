@@ -1,4 +1,3 @@
-
 ---
 description: Preamble
 cover: ../../.gitbook/assets/logo.png
